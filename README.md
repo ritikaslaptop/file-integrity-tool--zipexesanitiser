@@ -1,5 +1,5 @@
 # 🗃️ zipexesanitiser
-a file integrity tool that safely removes zip archives and executable files from your downloads folder
+a file integrity tool that removes zip archives and executable files from your downloads folder,to save some space :)
 
 ![python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![license](https://img.shields.io/badge/license-mit-green.svg)
